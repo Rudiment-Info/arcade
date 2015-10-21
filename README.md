@@ -1,5 +1,5 @@
 # ARtillery Crater Analysis and Detection Engine (ARCADE)
-An experiment by Rudiment.info
+An experiment by Rudiment.info with the Centre for Visual Computing, University of Bradford
 
 Version: 0.0.1
 
