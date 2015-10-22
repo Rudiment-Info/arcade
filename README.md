@@ -132,4 +132,6 @@ Please use the issues areas of this repository to discuss add new problems, or d
 
 [Rudiment.info](https://rudiment.info) is a nonprofit group which supports innovation in human rights research. [The Centre for Visual Computing](http://www.bradford.ac.uk/research/rkt-centres/visual-computing/) at University of Bradford carries out research and development in visual image data processing. Technical feasiblity work on ARCADE was funded by the Yorkshire Innovation Fund.
 
-Copyright (c) 2015 Rudiment.info, released under a BSD Simplified License
+All code and accompanying text Copyright (c) 2015 Rudiment.info, released under a BSD Simplified License. 
+MATLAB MCR (c) 2015 Mathworks
+Satellite imagery via Google (c) 2015 various providers (see images for specifics)
