@@ -1,4 +1,5 @@
 # ARtillery Crater Analysis and Detection Engine (ARCADE)
+
 An experiment by Rudiment.info with the Centre for Visual Computing, University of Bradford
 
 Version: 0.0.1
@@ -125,6 +126,6 @@ The following feature is under development:
 
 ## Who are you again? <a id="who"></a>
 
-[Rudiment.info](https://rudiment.info) is a nonprofit group which supports innovation in human rights research. The Centre for Visual Computing at University of Bradford carries out research and development in visual image data processing. Technical feasiblity work on ARCADE was funded by the Yorkshire Innovation Fund.
+[Rudiment.info](https://rudiment.info) is a nonprofit group which supports innovation in human rights research. [The Centre for Visual Computing](http://www.bradford.ac.uk/research/rkt-centres/visual-computing/) at University of Bradford carries out research and development in visual image data processing. Technical feasiblity work on ARCADE was funded by the Yorkshire Innovation Fund.
 
 Copyright (c) 2015 Rudiment.info, released under a BSD Simplified License
