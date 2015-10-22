@@ -29,7 +29,7 @@ Detailed information about the ARCADE project and its authors is available on [R
 ## Installing ARCADE <a id="install"></a>
 
 ARCADE is currently only available for use on computers running recent versions of Windows
-(realisticaly, 8 and 10). If you want to create a binary installer for OSX or Linux, the
+(realistically, 8 and 10). If you want to create a binary installer for OSX or Linux, the
 source code is provided so you are welcome to do so (and contribute it - let us know please!)
 
 ### Installation on Windows
@@ -83,7 +83,7 @@ Next, follow these steps:
   
 * ARCADE can process multiple images in sequence. Place each in a separate row.
 * IMPORTANT! If you miss out any of the required data or include spaces or non-printable characters other than a line break in `ReadCraters.txt`, ARCADE will fail and give you an unhelpful error message.
-*  Run `arcade.exe` with [administrator priviledges[(http://windows.microsoft.com/en-gb/windows7/how-do-i-run-an-application-once-with-a-full-administrator-access-token). 
+*  Run `arcade.exe` with [administrator priviledges](http://windows.microsoft.com/en-gb/windows7/how-do-i-run-an-application-once-with-a-full-administrator-access-token). 
 *  A window with a boring splash page will open. This is all the indication that ARCADE gives you that it is doing something. There is no progress bar to make you feel more comfortable.
 *  Depending on the size of the image and the number of detections it makes, ARCADE could be processing for quite a long time (+10 minutes easily).
 * As ARCADE is about to finish, a window showing the segmented view with plotted centroids will pop up. Just close it! 
