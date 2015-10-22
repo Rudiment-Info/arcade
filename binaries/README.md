@@ -5,7 +5,7 @@
 Version 8.3 (R2014a) for Windows (32bit or 64bit, depending on your computer): http://uk.mathworks.com/products/compiler/mcr/ 
 * Then run the ARCADE installer.
 
-The full installation process is detailed in the README.
+The full installation process is detailed in the [main README](/README.md).
 
 ## Windows
 
