@@ -10,6 +10,7 @@
 %Centre for Visual Computing
 %University of Bradford, UK
 
+
 clc
 
 clear all
@@ -53,7 +54,7 @@ clear all
             %format output name
             [pathstr, name, ext] = fileparts(imname);
             outputname = strcat(name,'_',numst,'.txt');
-            outputname2 = strcat(name,'_',numst,'.xlsx');
+            outputname2 = strcat(name,'_',numst,'.csv');
             if(number_craters == 0)
                 
                     %myformat = '%f\t%f\t%f\t%f\r\n';
