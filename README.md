@@ -67,8 +67,8 @@ Why? ARCADE's calculations are made in pixels on the source image. It needs the 
 Next, follow these steps:
 
 * Upload the satellite imagery to a webserver (or use a web server running on your local machine)and make a note of the full URL (including `https://www ...` etc) 
-* If you've installed ARCADE in `Program Files` you willneed to use Windows' [adminstrator priviledges]((http://windows.microsoft.com/en-gb/windows7/how-do-i-run-an-application-once-with-a-full-administrator-access-token)to perform the below steps.
-* Open `~\application\ReadCraters.txt` in your favour text editor. 
+* If you've installed ARCADE in `Program Files` you willneed to use Windows' [adminstrator priviledges](http://windows.microsoft.com/en-gb/windows7/how-do-i-run-an-application-once-with-a-full-administrator-access-token)to perform the below steps.
+* Open `~\application\ReadCraters.txt` in your most beloved text editor. 
 * In a single row enter the following, with a single tab between each value:
   * The full URL where ARCADE can find the image
   * The latitude of the upper right corner, expressed as a decimal coordinate
@@ -85,7 +85,7 @@ Next, follow these steps:
 * IMPORTANT! If you miss out any of the required data or include spaces or non-printable characters other than a line break in `ReadCraters.txt`, ARCADE will fail and give you an unhelpful error message.
 *  Run `arcade.exe` with [administrator priviledges[(http://windows.microsoft.com/en-gb/windows7/how-do-i-run-an-application-once-with-a-full-administrator-access-token). 
 *  A window with a boring splash page will open. This is all the indication that ARCADE gives you that it is doing something. There is no progress bar to make you feel more comfortable.
-*  Depending on the size of the image and the number of detections it makes, ARCADE could be processing for quite a long time (+15 minutes easily).
+*  Depending on the size of the image and the number of detections it makes, ARCADE could be processing for quite a long time (+10 minutes easily).
 * As ARCADE is about to finish, a window showing the segmented view with plotted centroids will pop up. Just close it! 
 * When ARCADE has completed, you will have a number of outputs for each item you asked it to process.  We discuss these below. 
 
