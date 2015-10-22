@@ -118,7 +118,7 @@ The following feature is under development:
 
 * Trajectory analysis using template matching: though the research work on the feature is complete, this is not yet implemented in this version.
 
-## Known issues with version 0.0.1 <a id="issues"></a>
+## Known issues with Version 1 <a id="issues"></a>
 
 ARCADE is a prototype, and it has issues:
 
