@@ -28,7 +28,6 @@ source code is provided so you are welcome to do so (and contribute it - let us 
  * [ReadCraters.txt](https://raw.githubusercontent.com/Rudiment-Info/arcade/master/config/ReadCraters.txt) - This is where you tell ARCADE where to get imagery and georeferences.
  * [craterDetector.xml](https://raw.githubusercontent.com/Rudiment-Info/arcade/master/config/craterDetector.xml) -  This is the current training data which tells ARCADE what a crater is.
  * [Settings.txt](https://raw.githubusercontent.com/Rudiment-Info/arcade/master/config/Settings.txt) - This enables you to control how much work ARCADE does to create outlines of things it considers to be blast craters.
-* 
 * Your `application` directory should look like this:
 
   ```
