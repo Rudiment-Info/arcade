@@ -120,9 +120,13 @@ The following feature is under development:
 
 ## Known issues with version 0.0.1 <a id="issues"></a>
 
+ARCADE is a prototype, and it has issues:
+
 * Pixel matching to latitude and longitude is error prone and needs attention. 
 * ARCADE is sensitive to treecover and ploughed fields. If you like, crop that out of the input imagery. Better training data should help limit this problem
 * The input method is fairly cumbersome. It would be better to use the Google Static API as an input.
+
+Please use the issues areas of this repository to discuss add new problems, or discuss any issues to do with ARCADE.
 
 ## Who are you again? <a id="who"></a>
 
