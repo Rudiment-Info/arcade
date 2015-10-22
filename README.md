@@ -5,20 +5,29 @@ Version: 0.0.1
 
 ## What is it?
 
-ARCADE is an experiment computer vision tool designed to assist with the analysis of satellite images
+ARCADE is an prototype computer vision tool designed to assist with the analysis of satellite images
 thought to contain artillery blast craters. It draws on methods specified by the American
 Association for the Advancement of Science (AAAS) and Bellingcat in their respective 
-investigations of artillery bombardment in [Sri Lanka](http://www.aaas.org/geotech/sri_lanka_2009#B.Possible%20Craters) and [eastern Ukraine](https://www.bellingcat.com/news/uk-and-europe/2015/02/17/origin-of-artillery-attacks/).
+investigations of artillery bombardment in [Sri Lanka](http://www.aaas.org/geotech/sri_lanka_2009#B.Possible%20Craters) and [eastern Ukraine](https://www.bellingcat.com/news/uk-and-europe/2015/02/17/origin-of-artillery-attacks/). 
 
-Detailed information about the ARCADE project is available on [Rudiment's website](https://rudiment.info/project/arcade). 
+Detailed information about the ARCADE project is available on [Rudiment's website](https://rudiment.info/project/arcade).
 
-## Installing ARCADE
+## Installing ARCADE 
 
-* Download MATLAB MCV and install it
-* Download ARCADE installer and run it
-* Put craterDetector.xml in ARCADE application directory
-* Put readCraters.txt in ARCADE application directory
-* Create settings.txt in ARCADE application directory
+ARCADE is currently only available for use on computers running recent versions of Windows
+(realisticaly, 8 and 10). If you want to create a binary installer for OSX or Linux, the
+source code is provided so you can do so.
+
+### Installation on Windows
+
+* Download the MATLAB Compiler Runtime (MCR) (version 8.3, 2014a) for your computer and platform [from here](https://www.mathworks.com/products/compiler/mcr/). Install it. 
+* Download the current ARCADE installer [from here](https://www.dropbox.com/s/0xlp1cksvuca3qa/ARCADE_installer_20151022_v_0_0_1.zip?dl=0). Unzip it. Install it in a directory of your choice (something like C:\Program Files\ARCADE)
+* In the installation directory you chose, go to the sub-directory called "application". Grab copies of the following files from this repository (in "config"), and place them straight in the "application" directory:
+ * [ReadCraters.txt]() (This is where you tell ARCADE where to get imagery and georeferences.)
+ * [craterDetector.xml]() (This is the current training data which tells ARCADE what a crater is.)
+ * [Settings.txt]() (This enables you to control how much work ARCADE does to create outlines of things it considers to be blast craters.)
+
+You should now be all set to go.
 
 ## How to use ARCADE
 
