@@ -66,8 +66,8 @@ Why? ARCADE's calculations are made in pixels on the source image. It needs the 
 
 Next, follow these steps:
 
-* Upload the satellite imagery to a webserver (or use a web server running on your local machine)and make a note of the full URL (including `https://www ...` etc) 
-* If you've installed ARCADE in `Program Files` you willneed to use Windows' [adminstrator priviledges](http://windows.microsoft.com/en-gb/windows7/how-do-i-run-an-application-once-with-a-full-administrator-access-token)to perform the below steps.
+* Upload the satellite imagery to a webserver. You can use a web server running on your local machine, or Github (like the [sample imagery in this repository](/sampledata/ukraine/google_satellite_export). Make a note of the full URL (including `https://www ...` etc). 
+* If you've installed ARCADE in `Program Files` you will need to use Windows' [adminstrator priviledges](http://windows.microsoft.com/en-gb/windows7/how-do-i-run-an-application-once-with-a-full-administrator-access-token)to perform the below steps.
 * Open `~\application\ReadCraters.txt` in your most beloved text editor. 
 * In a single row enter the following, with a single tab between each value:
   * The full URL where ARCADE can find the image
