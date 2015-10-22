@@ -2,7 +2,7 @@
 
 An experiment by Rudiment.info with the Centre for Visual Computing, University of Bradford
 
-Version: 0.0.1
+Version: 1.0
 
 [What is ARCADE?](#what)
 
