@@ -36,14 +36,14 @@ For cascadeObjectDetector style tools like ARCADE, we need to give it positive s
 
 The result of this step is a dataset (`arcade_ukraine_data_processed.csv`) containing the following:
 
-`filename`: name of the positive sample, found in the relevant `/input` folder
-`x_bound`: x coordinate of starting point for bounding box (px)
-`y_bound`: y coordinate of starting point for bounding box (px)
-`w_bound`: width of bounding box (px)
-`h_bound`: height of bounding box (px)
-`c_id`: id number for each crater (unique, integer)
-`lat`: latitude of the crater
-`lon`: longitude of the crater
-`cfield_id`: id of the crater field, as defined by the original investigator
+* `filename`: name of the positive sample, found in the relevant `/input` folder
+* `x_bound`: x coordinate of starting point for bounding box (px)
+* `y_bound`: y coordinate of starting point for bounding box (px)
+* `w_bound`: width of bounding box (px)
+* `h_bound`: height of bounding box (px)
+* `c_id`: id number for each crater (unique, integer)
+* `lat`: latitude of the crater
+* `lon`: longitude of the crater
+* `cfield_id`: id of the crater field, as defined by the original investigator
 
 This should be sufficient for training and analysis purposes. Usual caveat apply: the image data is Google's - we're working nonprofit, and we feel within the ToS.
