@@ -1,0 +1,1449 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="mapvestigation_source_0" id="mapvestigation_source_0">
+	<SimpleField name="DESCRIPTIO" type="string"></SimpleField>
+	<SimpleField name="SOURCE_ID" type="string"></SimpleField>
+	<SimpleField name="IMAGE_DATE" type="string"></SimpleField>
+	<SimpleField name="PROCESSED?" type="string"></SimpleField>
+	<SimpleField name="NOTE" type="string"></SimpleField>
+	<SimpleField name="joined" type="string"></SimpleField>
+</Schema>
+<Folder><name>mapvestigation_source_0</name>
+  <Placemark>
+	<name>1 Voikovs'kyi a. artillery strike. Unable to determine trajectory.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image 14/09/2014. Unable to determine trajectory.</SimpleData>
+		<SimpleData name="SOURCE_ID">1</SimpleData>
+		<SimpleData name="IMAGE_DATE">14/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">N</SimpleData>
+		<SimpleData name="NOTE">Imagery updated in OpenLayers</SimpleData>
+		<SimpleData name="joined">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.370148,47.739251 38.372605,47.735095 38.365674,47.733479 38.363099,47.73775 38.370148,47.739251</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2 Voikovs'kyi b. artillery strike</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image 14/09/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">2</SimpleData>
+		<SimpleData name="IMAGE_DATE">14/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="NOTE">imagery updated, some craters not visible</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.367326,47.749366 38.37548,47.750636 38.376596,47.748962 38.368464,47.747461 38.367326,47.749366</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3 Voikovs'kyi c. artillery strike. Unable to determine trajectory.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image 14/09/2014. Unable to judge trajectory as the impacts are too small.</SimpleData>
+		<SimpleData name="SOURCE_ID">3</SimpleData>
+		<SimpleData name="IMAGE_DATE">14/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="NOTE">Imagery updated</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.376832,47.750058 38.392882,47.747 38.393183,47.744662 38.396316,47.742469 38.393526,47.739266 38.369322,47.747375 38.376596,47.748962 38.376832,47.750058</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4 Mokrojelanchyk artillery strike site. Unable to determine trajectory.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 14/09/14. Related to strike reported by SBGS 04/08/2014? http://dpsu.gov.ua/en/about/news/news_4795.htm . (http://dpsu.gov.ua/en/about/news/news_4795.htm .) Unable to determine trajectory. May include mortars from north.</SimpleData>
+		<SimpleData name="SOURCE_ID">4</SimpleData>
+		<SimpleData name="IMAGE_DATE">14/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="NOTE">Check imagery</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.500171,47.716302 38.503861,47.716879 38.506029,47.713068 38.502209,47.712303 38.500171,47.716302</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>5 Amvrosiivka a. artillery strike site centre west</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 14/09/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">5</SimpleData>
+		<SimpleData name="IMAGE_DATE">14/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.455238,47.779641 38.455388,47.779698 38.464315,47.781703 38.467684,47.776685 38.457491,47.774348 38.455238,47.779641</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>6 Amvrosiivka b. artillery strike south centre</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 14/09/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">6</SimpleData>
+		<SimpleData name="IMAGE_DATE">14/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.493562,47.759435 38.510449,47.763893 38.509108,47.765775 38.51142,47.766384 38.512659,47.764484 38.51974,47.75479 38.499784,47.74925 38.493562,47.759435</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>7 Amvrosiivka c. south artillery strikes. Unable to determine trajectory.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 14/09/2014. Unable to determine trajectory. May include mortars from north.</SimpleData>
+		<SimpleData name="SOURCE_ID">7</SimpleData>
+		<SimpleData name="IMAGE_DATE">14/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.520148,47.766965 38.519826,47.76682 38.517315,47.766215 38.503282,47.762378 38.502445,47.76496 38.505127,47.766489 38.50414,47.767686 38.50266,47.76894 38.50502,47.771046 38.515148,47.770758 38.520706,47.770916 38.520148,47.766965</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>8 Amvrosiivka d. SE artillery strike from SW</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 14/09/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">8</SimpleData>
+		<SimpleData name="IMAGE_DATE">14/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.511833,47.764729 38.51429,47.767094 38.516843,47.76638 38.514129,47.76382 38.511833,47.764729</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>9 Amvrosiivka e. south artillery strike site from SW. Unable to determine trajectory.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 14/09/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">9</SimpleData>
+		<SimpleData name="IMAGE_DATE">14/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.515534,47.759645 38.519311,47.765306 38.527969,47.763222 38.522637,47.756651 38.515534,47.759645</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>10 Amvrosiivka f. east artillery strike from SE</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 14/09/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">10</SimpleData>
+		<SimpleData name="IMAGE_DATE">14/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.512251,47.775632 38.52165,47.77768 38.524354,47.771825 38.514934,47.769734 38.512251,47.775632</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>11 Amvrosiivka g. SE artillery strike from SSE</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 14/09/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">11</SimpleData>
+		<SimpleData name="IMAGE_DATE">14/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.521253,47.770455 38.523023,47.770642 38.523967,47.766691 38.521929,47.766438 38.521253,47.770455</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>12 Amvrosiivka h. SE artillery strike from SEE?</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 14/09/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">12</SimpleData>
+		<SimpleData name="IMAGE_DATE">14/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.535898,47.77008 38.541048,47.768623 38.535662,47.764484 38.544266,47.761253 38.53991,47.757704 38.533366,47.760243 38.536472,47.761895 38.52975,47.765364 38.526414,47.763431 38.521993,47.766041 38.530029,47.770469 38.533988,47.76884 38.535898,47.77008</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>13 Amvrosiivka i. south artillery strike from SW</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 14/09/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">13</SimpleData>
+		<SimpleData name="IMAGE_DATE">14/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.53049,47.766316 38.535726,47.765335 38.532658,47.759825 38.526628,47.761224 38.53049,47.766316</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>14 Amvrosiivka j. SE artillery strike site</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 14/09/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">14</SimpleData>
+		<SimpleData name="IMAGE_DATE">14/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.522015,47.75808 38.533538,47.762407 38.538902,47.758051 38.527315,47.752727 38.522015,47.75808</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>15 Uspenka BCP artillery attack. Unable to determine trajectory.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Unable to determine trajectory.</SimpleData>
+		<SimpleData name="SOURCE_ID">15</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.678141,47.701603 38.680469,47.699682 38.678613,47.698758 38.676092,47.70078 38.678141,47.701603</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>16 Uspenka BCP north artillery attack. Unable to determine trajectory.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image from 15th August 2014. GRADs seem to come from NE, but perhaps some mortars from SW? Could not confirm trajectory.</SimpleData>
+		<SimpleData name="SOURCE_ID">16</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.690951,47.715782 38.697302,47.712404 38.691273,47.707321 38.684578,47.711855 38.690951,47.715782</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>17 Manych artillery strike. Unable to determine trajectory.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Trajectory could not be determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">17</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.728116,47.772286 38.731763,47.775344 38.752256,47.771277 38.745732,47.764686 38.728116,47.772286</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>18 Komyshuvakha artillery strike. Unable to determine trajectory.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Unable to determine trajectory.</SimpleData>
+		<SimpleData name="SOURCE_ID">18</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">N</SimpleData>
+		<SimpleData name="NOTE">Vry little visible in this imagery now</SimpleData>
+		<SimpleData name="joined">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.764851,47.788205 38.773327,47.785019 38.771482,47.782222 38.762384,47.785451 38.764851,47.788205</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>19 Semenivs'ke a. west artillery strike. Unable to determine trajectory.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Could not determine trajectory.</SimpleData>
+		<SimpleData name="SOURCE_ID">19</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.696358,47.843205 38.706143,47.843075 38.706486,47.839691 38.69638,47.839835 38.696358,47.843205</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>20 Semenivs'ke b. west artillery strike</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">20</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.714962,47.856525 38.726914,47.855128 38.725069,47.850693 38.712838,47.852968 38.714962,47.856525</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>21 Semenivs'ke c. SW artillery strike. Unable to determine trajectory.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Could not determine trajectory.</SimpleData>
+		<SimpleData name="SOURCE_ID">21</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.731098,47.848821 38.741527,47.854206 38.755818,47.850952 38.744874,47.842254 38.731613,47.84862 38.731098,47.848821</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>22 Semenivs'ke d. far south artillery strike from SEE</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">22</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.75968,47.833987 38.757877,47.830415 38.734918,47.836234 38.736548,47.839057 38.75968,47.833987</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>23 Semenivs'ke e. south artillery strike. Unable to determine trajectory.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Cannot determine trajectory with certainty - seems to be strikes from both west and east.</SimpleData>
+		<SimpleData name="SOURCE_ID">23</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.752127,47.838668 38.744466,47.839705 38.745947,47.844631 38.753865,47.843622 38.752127,47.838668</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>24 Semenivs'ke f. south artillery strike. Unable to determine trajectory.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Cannot determine trajectory with certainty.</SimpleData>
+		<SimpleData name="SOURCE_ID">24</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.751526,47.850693 38.75629,47.850736 38.756654,47.846863 38.751805,47.846791 38.751526,47.850693</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>25 Semenivs'ke g. south east artillery strike</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">25</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.753414,47.841304 38.756804,47.844443 38.76895,47.839604 38.768134,47.838539 38.771889,47.836897 38.770993,47.835834 38.766772,47.837221 38.765602,47.836061 38.753414,47.841304</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>26 Hryhorivka a. south artillery strike point from NEE</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">26</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.766139,47.847129 38.773155,47.848123 38.775022,47.845307 38.767448,47.843889 38.766139,47.847129</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>27 Hryhorivka b. south artillery strike from SE</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014</SimpleData>
+		<SimpleData name="SOURCE_ID">27</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.779228,47.845164 38.777661,47.846013 38.780279,47.848137 38.782114,47.84736 38.779228,47.845164</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>28 Hryhorivka c. artillery strike north</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">28</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.775559,47.859563 38.763199,47.867192 38.772469,47.874533 38.785043,47.868546 38.775559,47.859563</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>29 Hryhorivka d. GRAD strike north 4 (23rd July)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/14. As reported on NSDC video which has Strelkov and another confirming the strike from Russian territory (23rd July): https://www.youtube.com/watch?v=KqKaoUidNvo#t=12 Location described as 'near Grigorivka town'</SimpleData>
+		<SimpleData name="SOURCE_ID">29</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.788691,47.864767 38.789946,47.863673 38.787038,47.862003 38.785622,47.863133 38.788691,47.864767</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>30 Hryhorivka e. artillery strike north. Unable to determine trajectory.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Unable to determine the trajectory, perhaps because the shells hit bare soil, makes it difficult to see the contrast.</SimpleData>
+		<SimpleData name="SOURCE_ID">30</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.787832,47.876721 38.791437,47.87603 38.788176,47.864659 38.783069,47.865782 38.783326,47.871338 38.784227,47.874792 38.78706,47.875253 38.787832,47.876721</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>31 Hyrhorivka f. artillery strike north 2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">31</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.776138,47.876138 38.778584,47.87721 38.782404,47.873166 38.77999,47.87177 38.776138,47.876138</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>32 Hryhorivka g. artillery strike north 3</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">32</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.777576,47.879513 38.788648,47.883686 38.793583,47.879484 38.783112,47.874533 38.777576,47.879513</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>33 Savur Mohyla a. artillery strike 1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Many of the craters from the direction of Russia appeared between 01-08-14 and 15-08-14, when Savur Mohyla was in the hands of Ukrainian forces.</SimpleData>
+		<SimpleData name="SOURCE_ID">33</SimpleData>
+		<SimpleData name="IMAGE_DATE">Not specified</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.732986,47.929528 38.746269,47.935207 38.755796,47.926652 38.743383,47.920376 38.732986,47.929528</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>34 Savur Mohyla b. artillery strike 2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Many of the craters from the direction of Russia appeared between 01-08-14 and 15-08-14, when Savur Mohyla was in the hands of Ukrainian forces.</SimpleData>
+		<SimpleData name="SOURCE_ID">34</SimpleData>
+		<SimpleData name="IMAGE_DATE">Not specified</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.749423,47.932217 38.760999,47.934215 38.75696,47.943063 38.77042660646682,47.948325083699295 38.775039214736012,47.945199849758666 38.760003,47.939564 38.76219,47.934373 38.767276,47.926221 38.752728,47.923216 38.749423,47.932217</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>35 Savur Mohyla c. artillery strike 3 from SE.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Occurred between 01/08/14 and 15/08/2014 images, a period in which Savur Mohyla was in the hands of Ukrainian forces.</SimpleData>
+		<SimpleData name="SOURCE_ID">35</SimpleData>
+		<SimpleData name="IMAGE_DATE">Not specified</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.739799,47.927386 38.741677,47.92932 38.746837,47.927961 38.745207,47.925696 38.739799,47.927386</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>36 Stepanivka a. centre west artillery strikes. Unable to determine trajectory.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Many of the craters appear between 01-08-14 and 15-08-14 image when the town was in Ukrainian hands. Unable to determine trajectory.</SimpleData>
+		<SimpleData name="SOURCE_ID">36</SimpleData>
+		<SimpleData name="IMAGE_DATE">Not specified</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.794956,47.926307 38.794785,47.925919 38.779292,47.919563 38.771181,47.927961 38.779292,47.931038 38.794956,47.926307</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>37 Stepanivka b. artillery strike Centre West</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Many of the craters appeared between the 01-08-14 image and the 15-08-14 image, when the town was in Ukrainian hands.</SimpleData>
+		<SimpleData name="SOURCE_ID">37</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.778606,47.917866 38.775867,47.920579 38.77772,47.921163 38.780397,47.918478 38.795707,47.923115 38.803303,47.914113 38.785837,47.908101 38.778606,47.917866</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>38 Stepanivka c. south artillery strike</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image 15/08/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">38</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.809526,47.897442 38.797295,47.900146 38.801158,47.908043 38.813088,47.905354 38.809526,47.897442</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>39 Stepanivka d. artillery strike centre SE</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">39</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.796572897478583,47.911003683250293 38.814193,47.919556 38.828452,47.907986 38.817121246795935,47.903687293671709 38.796572897478583,47.911003683250293</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>40 Marynivka a. far west artillery strike</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">40</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.79177,47.892679 38.794484,47.893543 38.799119,47.889341 38.79648,47.888061 38.79177,47.892679</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>41 Marynivka b. SW GRAD strike</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">41</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.806758,47.885068 38.801243,47.892852 38.817573,47.896837 38.823023,47.889054 38.806758,47.885068</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>42 Marynivka c. west GRAD strike</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014</SimpleData>
+		<SimpleData name="SOURCE_ID">42</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.816736,47.89924 38.81489,47.901326 38.820663,47.903124 38.822658,47.901081 38.816736,47.89924</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>43 Marynivka d. SE artillery strike. Unable to determine trajectory.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image 15/08/2014. Could not determine trajectory.</SimpleData>
+		<SimpleData name="SOURCE_ID">43</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.862200036402371,47.896731878587651 38.874865,47.892492 38.87053,47.885298 38.858022045737862,47.889499779953645 38.862200036402371,47.896731878587651</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>44 Marynivka e. north GRAD strike site</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">44</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.835361,47.928414 38.84756,47.933 38.857076,47.924179 38.844438,47.918988 38.835361,47.928414</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>45 Pobjeda GRAD strike</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">45</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">N</SimpleData>
+		<SimpleData name="NOTE">Barely visible</SimpleData>
+		<SimpleData name="joined">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.817852463480499,47.976849284131653 38.826263,47.976866 38.826027,47.969999 38.818346955483754,47.970118340329023 38.817852463480499,47.976849284131653</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>46 Marynivka BCP artillery strike. Unable to determine trajectory.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Could not determine trajectory.</SimpleData>
+		<SimpleData name="SOURCE_ID">46</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.859072,47.868056 38.863921,47.869611 38.866518,47.866487 38.861132,47.864875 38.859072,47.868056</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>47 Dibrivka GRAD strike site 23/07/2014, from USA Gov data</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">pre-2014 Google map image: 08/08/2013. http://www.rferl.org/content/us-photos-satellite-ukraine-russia-evidence/25472104.html From USA Gov data.</SimpleData>
+		<SimpleData name="SOURCE_ID">47</SimpleData>
+		<SimpleData name="IMAGE_DATE">Not Google</SimpleData>
+		<SimpleData name="PROCESSED?">N</SimpleData>
+		<SimpleData name="joined">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.078712,47.918183 39.091415,47.916227 39.087553,47.909841 39.075365,47.912373 39.078712,47.918183</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>48 Chervonyi Zhovten GRAD impact site (from USA gov satellite image)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">pre-2014 Image. from USA gov satellite image: http://www.rferl.org/content/us-photos-satellite-ukraine-russia-evidence/25472104.html</SimpleData>
+		<SimpleData name="SOURCE_ID">48</SimpleData>
+		<SimpleData name="IMAGE_DATE">Not Google</SimpleData>
+		<SimpleData name="PROCESSED?">N</SimpleData>
+		<SimpleData name="joined">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.147935,47.887111 39.155102,47.886938 39.15493,47.880693 39.148235,47.880837 39.147935,47.887111</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>49 Zelenopillya artillery strike</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/14. Attacked 11/07/14. http://www.interpretermag.com/ukraine-liveblog-day-144-30-ukrainian-soldiers-killed-near-russias-border/  Trajectory of fire goes into pre-2014 Google image, so unable to locate.</SimpleData>
+		<SimpleData name="SOURCE_ID">49</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">N</SimpleData>
+		<SimpleData name="NOTE">Seems to hav experienced some conflict in April 2014 as well</SimpleData>
+		<SimpleData name="joined">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.458449,47.930836 39.474875,47.937528 39.482492,47.933525 39.462955,47.926983 39.458449,47.930836</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>50 Dolzhans'kyi south artillery strike. Unable to determine trajectory.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 31/08/2014. Could not determine trajectory.</SimpleData>
+		<SimpleData name="SOURCE_ID">50</SimpleData>
+		<SimpleData name="IMAGE_DATE">31/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">N</SimpleData>
+		<SimpleData name="NOTE">Not visible in current imagery (11/2014)</SimpleData>
+		<SimpleData name="joined">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.72594,47.842643 39.731283,47.846661 39.739266,47.843219 39.733558,47.838539 39.72594,47.842643</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>51 Dolzhans'kyi artillery (and other artillery) strike point</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Trajectory only for GRADs, cannot estimate trajectory of other artillery</SimpleData>
+		<SimpleData name="SOURCE_ID">51</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="NOTE">Lots of smaller craters left out</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.743664,47.851608 39.74993,47.849095 39.748342,47.847928 39.742312,47.850492 39.743664,47.851608</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>52 Biryukove a. south artillery strike. Unable to determine trajectory.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Could not determine the trajectory.</SimpleData>
+		<SimpleData name="SOURCE_ID">52</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">N</SimpleData>
+		<SimpleData name="NOTE">Largely ploughed over</SimpleData>
+		<SimpleData name="joined">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.732185,47.926437 39.741025,47.926609 39.741004,47.922468 39.739437,47.920742 39.733493,47.921332 39.732185,47.926437</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>53 Biryukove b. south artillery strike from SE</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">53</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.723644,47.934991 39.727163,47.93617 39.731197,47.931915 39.727571,47.930664 39.723644,47.934991</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>54 Biryukove c. artillery strike</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Large strike 16/07/2014? http://podrobnosti.ua/accidents/2014/07/16/985079.html . (http://podrobnosti.ua/accidents/2014/07/16/985079.html .) Two possible trajectories suggested, but both possibilities lead to Russian territory.</SimpleData>
+		<SimpleData name="SOURCE_ID">54</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.735746,47.94215 39.747698,47.939333 39.739201,47.925603 39.727072,47.928593 39.735746,47.94215</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>55 Khmel'nyts'kyi artillery strike point</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">55</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">N</SimpleData>
+		<SimpleData name="NOTE">Visible but ploughed over</SimpleData>
+		<SimpleData name="joined">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.64659,47.999169 39.658413,47.994933 39.652576,47.988428 39.640668,47.994373 39.64659,47.999169</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>56 Panchenkove a. far south artillery strike</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">56</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="NOTE">Some visible</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.783919,48.010468 39.786065,48.010956 39.791322,48.004166 39.788747,48.003247 39.783919,48.010468</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>57 Panchenkove b. south artillery strike</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">57</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.759929,48.014932 39.764907,48.011573 39.762332,48.010008 39.757376,48.013267 39.759929,48.014932</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>58 Panchenkove c. artillery strike SW</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">58</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="NOTE">Very few visible</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.736133,48.028925 39.744523,48.031709 39.747634,48.027533 39.73933,48.024505 39.736133,48.028925</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>59 Panchenkove d. artillery strike from NE</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Possibly attacked on 22/07/2014? http://mediarnbo.org/2014/07/24/nsc-news-analysis-center-briefing-at-12-00-july-23-2014/?lang=en</SimpleData>
+		<SimpleData name="SOURCE_ID">59</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="NOTE">Some areas not visible</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.712207,48.039357 39.735618,48.044593 39.747634,48.02716 39.722271,48.020688 39.712207,48.039357</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>60 Chervonopartyzans'k a. east artillery strike. Unable to determine trajectory.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 31/08/2014. Possibly attacked 22/07/2014? http://mediarnbo.org/2014/07/24/nsc-news-analysis-center-briefing-at-12-00-july-23-2014/?lang=en . Could not determine trajectory.</SimpleData>
+		<SimpleData name="SOURCE_ID">60</SimpleData>
+		<SimpleData name="IMAGE_DATE">31/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.823658,48.064386 39.835632,48.063396 39.836276,48.061819 39.82177,48.061891 39.823658,48.064386</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>61 Chervonopartyzans'k b. east artillery strike from NE</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/14.</SimpleData>
+		<SimpleData name="SOURCE_ID">61</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.83502,48.070308 39.836608,48.069505 39.834645,48.068193 39.833229,48.06901 39.83502,48.070308</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>62 Chervonopartyzans'k c. NE artillery strike</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">62</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.863699,48.109767 39.871509,48.117052 39.874964,48.115003 39.866746,48.107732 39.863699,48.109767</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>63 Provallya a. west artillery strike from NE</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">63</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="NOTE">Fairly distorted by ploughing</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.77819,48.136208 39.789648,48.138442 39.792309,48.135693 39.780293,48.13247 39.77819,48.136208</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>64 Provallya b. north artillery strike from NE</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">64</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="NOTE">Some no longer defined/visible</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.788726,48.144656 39.798038,48.146532 39.800592,48.143883 39.790678,48.141292 39.788726,48.144656</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>65 Cheremshyne artillery attack from north</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">65</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.868215,48.186118 39.875414,48.185782 39.87476,48.180581 39.866907,48.181125 39.868215,48.186118</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>66 Nyzhn'oderevechka east artillery strike</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image 26/08/2014. Could not determine trajectory.</SimpleData>
+		<SimpleData name="SOURCE_ID">66</SimpleData>
+		<SimpleData name="IMAGE_DATE">26/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.830782,48.210261 39.829377,48.20808 39.838529,48.205013 39.83561,48.200122 39.815403,48.207234 39.820118,48.213786 39.830782,48.210261</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>67 Metalist west artillery attack(s). Trajectories not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 13/09/2014. Trajectory could not be determined. Found by Morzel.</SimpleData>
+		<SimpleData name="SOURCE_ID">67</SimpleData>
+		<SimpleData name="IMAGE_DATE">13/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">N</SimpleData>
+		<SimpleData name="NOTE">largely obscured</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.276496,47.818284 38.277783,47.81425 38.272977,47.811166 38.263493,47.814077 38.255682,47.83125 38.264265,47.834938 38.285379,47.834189 38.283148,47.819033 38.276496,47.818284</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>68 Metalist/Kuteinykove artillery attack.Trajectory not confirmed.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image 13/09/214. Trajectory not confirmed. Found by Morzel.</SimpleData>
+		<SimpleData name="SOURCE_ID">68</SimpleData>
+		<SimpleData name="IMAGE_DATE">13/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">N</SimpleData>
+		<SimpleData name="NOTE">largely obscured</SimpleData>
+		<SimpleData name="joined">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.310571,47.816296 38.314218,47.812549 38.302889,47.808457 38.299069,47.812693 38.310571,47.816296</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>69 Novoivanivka artillery strike</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 14/09/14. Trajectory indicates it comes from Russia. Found by Morzel.</SimpleData>
+		<SimpleData name="SOURCE_ID">69</SimpleData>
+		<SimpleData name="IMAGE_DATE">14/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">N</SimpleData>
+		<SimpleData name="NOTE">Largely obscured</SimpleData>
+		<SimpleData name="joined">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.39741,47.677619 38.401873,47.679085 38.40418,47.67621 38.399298,47.674563 38.39741,47.677619</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>70 Ol'hyns'ke artillery strike north</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 14/09/2014. Trajectory indicates that it came from Russia. Found by Morzel.</SimpleData>
+		<SimpleData name="SOURCE_ID">70</SimpleData>
+		<SimpleData name="IMAGE_DATE">14/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">N</SimpleData>
+		<SimpleData name="NOTE">largely obscured</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.392754,47.736791 38.397474,47.73433 38.39344,47.731097 38.388612,47.733623 38.392754,47.736791</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>71 Amvrosiivka SE 16th July Layer clear MRLS attack from SW</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 16/07/2014. Large MRLS attack. Clearly comes from Russia, probably from Seleznev (source no f57). Found by Morzel.</SimpleData>
+		<SimpleData name="SOURCE_ID">71</SimpleData>
+		<SimpleData name="IMAGE_DATE">16/07/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.512874,47.764253 38.521199,47.762306 38.51826,47.757171 38.509741,47.75945 38.512874,47.764253</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>72 Marynivka SW from Ukrainian side of border?</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">72</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="NOTE">Partially; some areas too indistinct to code</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.8273573,47.884074799999979 38.831863399999989,47.8898594 38.845768,47.886377199999949 38.841540799999983,47.879613699999979 38.8273573,47.884074799999979</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>73 Biryukove SE</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 08/08/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">73</SimpleData>
+		<SimpleData name="IMAGE_DATE">08/08/2015</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="NOTE">Partially; some areas are too indistinct to code</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.772031299999988,47.921504699999971 39.7843695,47.920498099999989 39.783790099999983,47.917003599999966 39.771237399999983,47.918182799999968 39.772031299999988,47.921504699999971</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>74 Shells at Gukovo BCP, trajectory not determined</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="SOURCE_ID">74</SimpleData>
+		<SimpleData name="IMAGE_DATE">Not specified</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.83410248614414,48.066556586078988 39.838099866211671,48.067540752888874 39.851449655597257,48.060979443252165 39.848495739749268,48.059223695459174 39.845059458286158,48.060368607152853 39.83410248614414,48.066556586078988</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>75 Kuibyshevo, craters inside Russia. Trajectory not confirmed</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="SOURCE_ID">75</SimpleData>
+		<SimpleData name="IMAGE_DATE">Not specified</SimpleData>
+		<SimpleData name="PROCESSED?">N</SimpleData>
+		<SimpleData name="NOTE">Largely indistinct</SimpleData>
+		<SimpleData name="joined">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.869139774943314,47.857239476340119 38.878859962748059,47.859461971927878 38.882216862791736,47.85614512980213 38.871723326068263,47.85379464299637 38.869139774943314,47.857239476340119</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>76 Marynivka BCP north artillery strike</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="SOURCE_ID">76</SimpleData>
+		<SimpleData name="IMAGE_DATE">Not specified</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="NOTE">Borderline distinct</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.855824040510107,47.877001604024336 38.863440334013582,47.876900978386338 38.863493223033913,47.874447350997833 38.856849524049657,47.874181269686126 38.855824040510107,47.877001604024336</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77 Marynivka BCP NE GRAD strike trajectory not determined</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="SOURCE_ID">77</SimpleData>
+		<SimpleData name="IMAGE_DATE">Not specified</SimpleData>
+		<SimpleData name="PROCESSED?">N</SimpleData>
+		<SimpleData name="NOTE">Mostly nondistinct</SimpleData>
+		<SimpleData name="joined">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.87320203112283,47.878235896465569 38.876351562844349,47.878016254042961 38.875624812148239,47.874960355911774 38.872800476305095,47.875457781544398 38.87320203112283,47.878235896465569</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>78 Marynivka BCP GRAD strike East trajectory not determined</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="SOURCE_ID">78</SimpleData>
+		<SimpleData name="IMAGE_DATE">Not specified</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="NOTE">Small number</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.879774337177246,47.879111231575727 38.881683787200494,47.879135617265945 38.881609857789662,47.876819855650197 38.87935074684367,47.877090496366037 38.879774337177246,47.879111231575727</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>79 artillery craters in Russia from Ukraine?</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 08/08/2014</SimpleData>
+		<SimpleData name="SOURCE_ID">79</SimpleData>
+		<SimpleData name="IMAGE_DATE">08/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">N</SimpleData>
+		<SimpleData name="NOTE">Very nondistinct</SimpleData>
+		<SimpleData name="joined">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.95138484867644,48.212634200374701 39.945694206563047,48.21972232698608 39.954512304257989,48.222649239862484 39.961729714915911,48.215920473502642 39.95138484867644,48.212634200374701</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>80 Marynivka E artillery attack area, trajectory not determined</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014</SimpleData>
+		<SimpleData name="SOURCE_ID">80</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.856485973984071,47.908864384026067 38.859847753392714,47.912379195865299 38.870163998632485,47.912187220209475 38.881765862549216,47.906397036828665 38.874373733147266,47.895590007358038 38.85602623766372,47.900486883871096 38.856485973984071,47.908864384026067</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>81 Mariupol NE GRAD strike. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 05/09/2014. Trajectory not determined. Attack occurred on 04/09/2014. Was filmed from a position SW of the field looking to the NE.</SimpleData>
+		<SimpleData name="SOURCE_ID">81</SimpleData>
+		<SimpleData name="IMAGE_DATE">05/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>37.724601214007322,47.152771678524175 37.7404449248722,47.154244574888303 37.740963296484587,47.151531770685516 37.731506316792647,47.148329790947187 37.724601214007322,47.152771678524175</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>82 Mariupol NE b. GRAD strike</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 05/09/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">82</SimpleData>
+		<SimpleData name="IMAGE_DATE">05/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="NOTE">Partially</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>37.720547590263855,47.144504848319755 37.718616328620406,47.133850960475534 37.71424986612633,47.132729825164311 37.708471854261738,47.14063189420186 37.720547590263855,47.144504848319755</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>83 Dyakove south artillery attack site. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014 Digital Globe preview image code 1030050032F94D00 . Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">83</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">N</SimpleData>
+		<SimpleData name="NOTE">No detail on imagery</SimpleData>
+		<SimpleData name="joined">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.163894632737353,47.890851990350797 39.164975213909401,47.881036035231503 39.151291439171793,47.878523029255923 39.140698609784977,47.88036622277901 39.141045394757526,47.887691467955982 39.148360422190848,47.890962889186568 39.156669167763042,47.890947666862992 39.163894632737353,47.890851990350797</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>84 Zelenopillya attack site 2. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">84</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="NOTE">Nondistinct in parts</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.458794356095048,47.921868140722985 39.47232542017467,47.926663366141014 39.476948087173376,47.923227762250455 39.462559474005943,47.918675008943055 39.458794356095048,47.921868140722985</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>85 Pobjeda north artillery strike site. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014.</SimpleData>
+		<SimpleData name="SOURCE_ID">85</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.805466978107582,47.987902476629749 38.817420920486974,47.988443946833549 38.820220570582876,47.988487095765251 38.821215895821176,47.983699158842725 38.815977178646044,47.98179106575973 38.812787308651856,47.98063333399206 38.809981202271686,47.980096351344109 38.805953731032218,47.980592371313087 38.805466978107582,47.987902476629749</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>86 Pobjeda SW artillery strike site. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">86</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.803751679831493,47.975791390768315 38.811682876682525,47.968696498907462 38.804234787981343,47.966118605935051 38.796347694228366,47.973386506418834 38.803751679831493,47.975791390768315</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>87 Pobjeda S artillery strike site. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">87</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">N</SimpleData>
+		<SimpleData name="NOTE">Too indistinct</SimpleData>
+		<SimpleData name="joined">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.793467524589047,47.966636712410242 38.808971139973181,47.967959015938511 38.811880117176266,47.956065465740359 38.797003315443241,47.955266430999842 38.793467524589047,47.966636712410242</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>88 Pervomaiskyi north artillery strike site. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">88</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.787736906223302,47.981276271549248 38.794863642769727,47.980463686354973 38.794105140917843,47.97597330211628 38.785940833182956,47.976606714909011 38.787736906223302,47.981276271549248</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>89 Pervomaiskyi west artillery strike site. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">89</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="NOTE">Mostly nondistinct</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.772376750927435,47.974786502935757 38.778234214490148,47.974584086886651 38.777789261265752,47.972189539716233 38.772330249178331,47.973075429027915 38.772319115230843,47.973075308603434 38.772376750927435,47.974786502935757</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>90 Pervomaiskyi SW artillery strike site. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">90</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.765858810136265,47.968180324012671 38.774829765298151,47.969784409553924 38.779113051326313,47.962958347386532 38.770287465900331,47.961160667308718 38.765858810136265,47.968180324012671</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>91 Pervomaiskyi SW b artillery strike site. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">91</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.750082113996207,47.958217731304522 38.747128253365844,47.966142011744147 38.761209723503917,47.966876704095178 38.762928499678182,47.958707295557289 38.750082113996207,47.958217731304522</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>92 Pervomaiskyi SE c artillery strike site. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">92</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.75895815099291,47.947878580370876 38.752468737392576,47.95761458647118 38.763749154342705,47.958128424680964 38.772145355035988,47.950819836446321 38.75895815099291,47.947878580370876</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>93 Savur Mohyla NW artillery strike site. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">93</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="NOTE">Very few; difficult to identify</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.718062551741937,47.947246215349764 38.732683954927445,47.930488064449051 38.721749078553025,47.926542499227843 38.707840940087117,47.93940138605852 38.718062551741937,47.947246215349764</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>94 Savur Mohyla N artillery strike site. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">94</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.725236849951443,47.943166471546981 38.750227886515574,47.943911046310369 38.750965918112755,47.935188387400999 38.730910125224327,47.932621309420647 38.725236849951443,47.943166471546981</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>95 Hryhorivka west artillery strike site. Trajectory not determined, but seems to come from NE?</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Trajectory not determined, but seems to come from NE?</SimpleData>
+		<SimpleData name="SOURCE_ID">95</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.754796869490576,47.867824888632761 38.766081726709366,47.865996215041015 38.760891431758196,47.856362430049103 38.749909764499435,47.859684967892733 38.754796869490576,47.867824888632761</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>96 Marynivka NE artillery strike site. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">96</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="NOTE">Partially; clearly more there, but nondistinct</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.873857428987534,47.917955693656516 38.881862670602416,47.917444578112345 38.881593920150749,47.910294611134724 38.873048713978861,47.912303103381738 38.873857428987534,47.917955693656516</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>97 Vesele NW (Mariupol side). Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 05/09/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">97</SimpleData>
+		<SimpleData name="IMAGE_DATE">05/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="NOTE">Fairly obscured</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>37.888239712784475,47.177973255387187 37.896272135802704,47.177364574884145 37.895842739199324,47.174572144733382 37.888430910701906,47.175483898886348 37.888239712784475,47.177973255387187</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>98 Dolzhanskyi BCP shells, trajectory undetermined</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="SOURCE_ID">98</SimpleData>
+		<SimpleData name="IMAGE_DATE">Not specified</SimpleData>
+		<SimpleData name="PROCESSED?">N</SimpleData>
+		<SimpleData name="NOTE">Mostly smaller size craters. Do another pass on these if needed</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.74662534434534,47.848646850556953 39.7496968995587,47.851175478279131 39.757251582649936,47.849621091931084 39.753020346123314,47.845083842227012 39.745854935547385,47.847517395691824 39.74662534434534,47.848646850556953</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>99 Zelenopillya attack site 3. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">99</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">N</SimpleData>
+		<SimpleData name="NOTE">largely obscured</SimpleData>
+		<SimpleData name="joined">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.486986565646859,47.921791414953951 39.50149561943298,47.924573237911638 39.50317561093938,47.920577494065114 39.489692691674513,47.919168975653591 39.486986565646859,47.921791414953951</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>100 Provallya SE artillery strike site. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 08/08/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">100</SimpleData>
+		<SimpleData name="IMAGE_DATE">08/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="NOTE">Plenty of smaller size as well</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.827789140932779,48.12437291156013 39.834964381745586,48.129264482519304 39.837667889890461,48.127757708362985 39.829908712168624,48.123000160471754 39.827789140932779,48.12437291156013</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>102 Mykyshivka SE artillery strike site. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 08/08/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">102</SimpleData>
+		<SimpleData name="IMAGE_DATE">08/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="NOTE">small number coded; mostly small, but some definition there</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>39.972924946006202,48.229575257627459 39.991795585229845,48.229397402176438 39.990854986870097,48.225060554237288 39.973853131153618,48.226724110606945 39.972924946006202,48.229575257627459</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>103 Berestove north artillery strike site. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 14/09/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">103</SimpleData>
+		<SimpleData name="IMAGE_DATE">14/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">N</SimpleData>
+		<SimpleData name="NOTE">Not present, or nondescript.</SimpleData>
+		<SimpleData name="joined">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.304321545798032,47.61176736517713 38.314654804476291,47.627283416599326 38.338516590142746,47.617999200823853 38.327819811568908,47.604201292256711 38.304321545798032,47.61176736517713</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>104 Amvrosiivka NW artillery strike site. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 14/09/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">104</SimpleData>
+		<SimpleData name="IMAGE_DATE">14/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.463055091209363,47.811546206330426 38.44511597664421,47.807981174871266 38.436621472406117,47.823867293077839 38.466561753645898,47.82490736060128 38.463055091209363,47.811546206330426</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>105 Amvrosiivka N artillery strike site. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 14/09/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">105</SimpleData>
+		<SimpleData name="IMAGE_DATE">14/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="NOTE">A few</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.477355359663775,47.858833482853115 38.506903726717333,47.866026559984121 38.508401579047273,47.857617971079399 38.482624199642537,47.848661713858021 38.477355359663775,47.858833482853115</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>106 Karpovo-Nadezhdynka artillery strike site north. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 14/09/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">106</SimpleData>
+		<SimpleData name="IMAGE_DATE">14/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.572834311407945,47.836279601278186 38.578537482814959,47.834708805331758 38.577390728834352,47.832770694467008 38.571871146025906,47.834314278742433 38.572834311407945,47.836279601278186</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>107 Ovocheve east artillery strike site. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 14/09/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">107</SimpleData>
+		<SimpleData name="IMAGE_DATE">14/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.595708443211109,47.867024354174958 38.607420163456553,47.863905972395699 38.604370208624985,47.860589423983996 38.594189148609075,47.863988308725752 38.595708443211109,47.867024354174958</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>108 Blahodatne E artillery strike site. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 14/09/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">108</SimpleData>
+		<SimpleData name="IMAGE_DATE">14/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="NOTE">Some largeish candidated; lots of blurr</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.512557868433277,47.866203244018394 38.522011908843801,47.876570894622809 38.542895822670339,47.86858644132225 38.532253867315447,47.858277129701982 38.512557868433277,47.866203244018394</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>109 Vorovs'ke E artillery strike site. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 14/09/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">109</SimpleData>
+		<SimpleData name="IMAGE_DATE">14/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">N</SimpleData>
+		<SimpleData name="NOTE">Non-distinct; faded</SimpleData>
+		<SimpleData name="joined">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.176571990065156,47.601021602888778 38.197586926591633,47.597006051801038 38.191379912201384,47.588980855792677 38.174690026809863,47.594200057297883 38.176571990065156,47.601021602888778</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>110 Vorov'ske W artillery strike site. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 14/09/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">110</SimpleData>
+		<SimpleData name="IMAGE_DATE">14/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">N</SimpleData>
+		<SimpleData name="NOTE">Ploughed over</SimpleData>
+		<SimpleData name="joined">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.160863210370323,47.589750719735299 38.160292757722367,47.595797679703082 38.167811617735019,47.595810669440667 38.167814972547326,47.5894957634127 38.160863210370323,47.589750719735299</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>111 Vorov'ske NW artillery strike site. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 14/09/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">111</SimpleData>
+		<SimpleData name="IMAGE_DATE">14/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="NOTE">Small number.</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.156252572584791,47.610066627027074 38.159845866054539,47.610043384083973 38.159845472088236,47.610084802474717 38.15981949439405,47.610084609116065 38.159819823530107,47.61005353219754 38.159684833804697,47.606285210707362 38.156541822658241,47.606379899844825 38.156252572584791,47.610066627027074</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>112 Novozar'ivka E artillery strike site. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 14/09/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">112</SimpleData>
+		<SimpleData name="IMAGE_DATE">14/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="NOTE">ploughed over, barely visible</SimpleData>
+		<SimpleData name="joined">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.166507698439538,47.648755857663112 38.184531625559238,47.646212060280767 38.181275124215553,47.638363456864681 38.163834267167616,47.642856877941348 38.166507698439538,47.648755857663112</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>113 Kolosky SE artillery strike site. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">14/09/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">113</SimpleData>
+		<SimpleData name="IMAGE_DATE">14/09/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="NOTE">Not visible</SimpleData>
+		<SimpleData name="joined">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.225319031411509,47.672986637891022 38.229231795138077,47.672090752114535 38.227324796394313,47.667786326905819 38.224114864016954,47.668480191977203 38.225319031411509,47.672986637891022</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>114 Oleksiivs'ke E artillery strike site. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">114</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="NOTE">Few; ploughed over?</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.783647438559719,47.820540306629262 38.803991522841919,47.819558621161576 38.803757776994686,47.817139528197785 38.784423305058837,47.817558952664974 38.783647438559719,47.820540306629262</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>115 Komyshuvakha W artillery strike site. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">115</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.742179823654283,47.793348949140004 38.744802021486066,47.793698351616278 38.745610615218339,47.792103411797918 38.743167191808823,47.791877756670523 38.742179823654283,47.793348949140004</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>116 Komyshuvakha S artillery strike site. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">116</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="NOTE">Ploughed over; nondistinct</SimpleData>
+		<SimpleData name="joined">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.749003322669068,47.784777273256054 38.753073444268303,47.784859457281868 38.752338904425308,47.782892847287812 38.748459280821685,47.783368365532795 38.749003322669068,47.784777273256054</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>117 Manych NE artillery strike site. Trajectory not determined.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapvestigation_source_0">
+		<SimpleData name="DESCRIPTIO">Image date 15/08/2014. Trajectory not determined.</SimpleData>
+		<SimpleData name="SOURCE_ID">117</SimpleData>
+		<SimpleData name="IMAGE_DATE">15/08/2014</SimpleData>
+		<SimpleData name="PROCESSED?">Y</SimpleData>
+		<SimpleData name="joined">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>38.763936368533201,47.764821105598855 38.7654806611528,47.765130428811766 38.766702049879683,47.763269256112984 38.765184237947658,47.76292961137586 38.763936368533201,47.764821105598855</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
